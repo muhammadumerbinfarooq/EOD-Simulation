@@ -1,4 +1,3 @@
-
 % EOD Simulation Project
 
 % Define explosive properties
