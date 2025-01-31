@@ -1,4 +1,4 @@
-```
+
 % EOD Simulation Project
 
 % Define explosive properties
@@ -77,5 +77,4 @@ end
 function velocity = calculate_velocity(pressure, air_density, soil_density, water_density, x, y, z, t)
     % Implement velocity calculation using finite difference method here
 end
-```
 
